@@ -23,8 +23,8 @@ Analisar desempenho de vendas por:
 
 ## Dashboard
 
-![Dashboard] 
-![alt text](imagens/dashboard.png)" 
+ 
+![alt text](imagens/dashboard.png) 
 
 
 ## Dataset
