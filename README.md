@@ -24,8 +24,8 @@ Analisar desempenho de vendas por:
 ## Dashboard
 
 ![Dashboard] 
-img src="![alt text](imagens/dashboard.png)" width="0px" /
-/div
+![alt text](imagens/dashboard.png)" 
+
 
 ## Dataset
 Dataset público disponível no Kaggle.
